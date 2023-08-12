@@ -13,4 +13,5 @@ The fork-join function is declared and an object is created, we can also see the
 ![Screenshot (199)](https://github.com/thbang25/MontiCarloMinimizationPCP/assets/83241507/6721f02c-dedf-4f2a-9cd8-df835cae2555)
 
 The following is where the results are displayed the global minimum and the time taken to complete the action.
-![image](https://github.com/thbang25/MontiCarloMinimizationPCP/assets/83241507/a4d313d4-325d-4ee1-9f8d-08d0231c0958)
+![Screenshot (200)](https://github.com/thbang25/MontiCarloMinimizationPCP/assets/83241507/1fff6f2c-7e49-48bc-8600-380b64d4c1e7)
+
